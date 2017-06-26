@@ -1,0 +1,44 @@
+
+
+<html>
+
+
+<head>
+<p><title>miweb</title></p></head>
+
+<body bgcolor="pink">
+<p><font color="black" face="Lucida Calligraphy" size="36"><center>CURRICULO DE VIDA</font></center></p>
+<br>
+<center><table border =2></center>
+<P ALIGN=rigth><img src="a.jpg">
+<p><u><font color="black" face="Arial" size="5"><b>Datos Personales</font></u></b></p>
+<tr><td>NOMBRES:</td><td>Nadia Cecilia</td></tr>
+
+<tr><td>APELLIDOS:</td><td>Peralta Cruel</td></tr>
+
+<tr><td>DIRECCION:</td><td>Pedro Vicente Maldonado y 9 de Octubre</td></tr>
+
+<tr><td>TELEFONO:</td><td>0993098713</td></tr>
+
+<tr><td>EMAIL:</td><td><u>nadia.peralta@utelvt.edu.ec</u></td></tr>
+
+<tr><td>FECHA DE NACIMIENTO:</td><td>Julio 29 de 1990</td></tr>
+
+<tr><td>ESTADO CIVIL:</td><td>Soltera</td></tr>
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
